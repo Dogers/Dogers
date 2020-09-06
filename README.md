@@ -1,4 +1,4 @@
-![Name](Header.png)
+![Name](https://github.com/Dogers/Dogers/blob/master/Header.png)
 
 ## Hello there! 👋
 
